@@ -7,7 +7,7 @@ Hardware:
 MOBO: Asus B460i Strix
 CPU: i7-10700
 
-Graphics Card: MSI RX 5000XT
+Graphics Card: MSI RX 5500XT
 
 WIFI/BT: DW1560 
 
